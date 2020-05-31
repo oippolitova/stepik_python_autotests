@@ -1,2 +1,3 @@
 # stepik_python_autotests
-h-w
+
+https://stepik.org/course/575
