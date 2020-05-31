@@ -1,3 +1,4 @@
 # stepik_python_autotests
 
-https://stepik.org/course/575
+
+Here you can find my homework from https://stepik.org/course/575
